@@ -11,7 +11,6 @@ Web Browser:	Mozilla, Google Chrome, IE8, OPERA
 Software	XAMPP: / Wamp / Mamp/ Lamp (anyone)
 
 ![mitali-register](https://user-images.githubusercontent.com/54711455/227446392-d11a8139-af16-40ff-bd7a-267a27cc8ef8.jpg)
-![mitali-updateprofile](https://user-images.githubusercontent.com/54711455/227446490-c97dea6e-3d74-4d9a-9af3-963bdf9f5459.jpg)
 ![mitali-index](https://user-images.githubusercontent.com/54711455/227446524-e23b2ae6-a1aa-41f6-aa40-8feb6fb28e1a.jpg)
 ![mitali-dashboard](https://user-images.githubusercontent.com/54711455/227446540-9b9b1a70-e0f8-4d16-b8cc-dfc6dbc7684c.jpg)
 ![mitali-admin](https://user-images.githubusercontent.com/54711455/227446568-3235c586-6599-48b7-a9ae-fa882a0e0c7b.jpg)
